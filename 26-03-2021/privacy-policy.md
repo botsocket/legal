@@ -47,7 +47,7 @@ While using Our Service, We may ask You to provide Us with certain personally id
 
 ##### Bot tokens
 
-We collect bot tokens to enable interactions with the Discord API. All bot tokens stored as encrypted text in our databases and are transmitted over secure connections. In the unlikely event of a data breach, We will carefully assess the risk and notify You if the tokens are compromised.
+We collect bot tokens to enable interactions with the Discord API. All bot tokens are stored as encrypted text in our databases and transmitted over secure connections. In the unlikely event of a data breach, We will carefully assess the risk and notify You if the tokens are compromised.
 
 ##### Messages
 
