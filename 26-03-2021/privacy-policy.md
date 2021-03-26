@@ -51,7 +51,7 @@ We collect bot tokens to enable interactions with the Discord API. All bot token
 
 ##### Messages
 
-Messages in our Discord support server that are deleted and or edited are saved into a logging channel for moderation purposes. We do not persist these messages in any of our databases.
+Messages in Our Discord support server that are deleted and or edited are saved into a logging channel for moderation purposes. We do not persist these messages in any of Our databases.
 
 #### Tracking Technologies and Cookies
 
@@ -67,7 +67,7 @@ We use both Session and Persistent Cookies for the purposes set out below:
 
 ##### Credentials cookies
 
-Credentials cookies enable Us to keep you logged in to the system.
+Credentials cookies enable Us to keep You logged in to the system.
 
 - Type: Persistent Cookies
 
@@ -149,4 +149,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
  
 ### Contact Us
 
-If you have any questions about this Privacy Policy, You can email us at [support@botsocket.com](mailto:support@botsocket.com) or visit our [Discord support server](https://discord.gg/BqBk7CY) 
+If you have any questions about this Privacy Policy, You can email Us at [support@botsocket.com](mailto:support@botsocket.com) or visit Our [Discord support server](https://discord.gg/BqBk7CY) 
